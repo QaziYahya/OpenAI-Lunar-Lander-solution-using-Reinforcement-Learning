@@ -17,7 +17,7 @@ The space ship can be controlled by using 4 discrete actions which are repersent
 
 ![Screenshot from 2022-09-24 20-39-04](https://user-images.githubusercontent.com/74414105/192106614-362a69b9-be98-498b-9b5d-750c0eb444d3.png)
 
-The agent was trained using Deep-Q-Learning it took a total of 755 episodes for the model to train in about 25-30 minuites.
+The agent was trained using Deep-Q-Learning it took a total of 755 episodes for the model to train in about 25-30 minutes.
 
 # Preview:
 
